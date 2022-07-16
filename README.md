@@ -6,7 +6,7 @@
 apt update
 apt install git -y
 git clone https://github.com/Mahironfire/TERMUX-SHELL
-cd termux-shell
+cd TERMUX-SHELL
 chmod +x *
 sh install.sh
 exit
