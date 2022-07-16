@@ -5,7 +5,7 @@
 ```
 apt update
 apt install git -y
-git clone https://github.com/Mahironfire/TERMUX-SHELL.git
+git clone https://github.com/Mahironfire/TERMUX-SHELL
 cd termux-shell
 chmod +x *
 sh install.sh
@@ -13,7 +13,7 @@ exit
 ```
 ### or use Single Command
 ```
-apt update && apt install git -y && git clone https://github.com/Mahironfire/TERMUX-SHELL.git && cd termux-shell && chmod +x * && sh install.sh
+apt update && apt install git -y && git clone https://github.com/Mahironfire/TERMUX-SHELL && cd termux-shell && chmod +x * && sh install.sh
 ```
 
 
